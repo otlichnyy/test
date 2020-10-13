@@ -3,4 +3,5 @@
 
 # Todos
 - gpg key [done]
-- commit signing  
+- commit signing  [done]
+- zsh setup 
