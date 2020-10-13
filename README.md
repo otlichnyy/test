@@ -2,4 +2,5 @@
 ## testing the ssh for multiple account
 
 # Todos
-- gpg key 
+- gpg key [done]
+- commit signing  
