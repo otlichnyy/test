@@ -1,6 +1,8 @@
 categories:
   - title: '🚀 Features'
-    label: 'feature'
+    label: 
+      - 'feature'
+      - 'enhancement'
   - title: '🐛 Bug Fixes'
     labels:
       - 'fix'
