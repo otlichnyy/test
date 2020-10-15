@@ -1,5 +1,5 @@
 # test
-## testing the ssh for multiple account
+a dummy repository for all github related experiments  
 
 # Todos
 - [x] gpg key 
