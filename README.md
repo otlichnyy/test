@@ -2,6 +2,7 @@
 ## testing the ssh for multiple account
 
 # Todos
-- gpg key [done]
-- commit signing  [done]
-- zsh setup 
+- [x] gpg key 
+- [x] commit signing  
+- [ ] zsh setup 
+- [ ] release drafter
